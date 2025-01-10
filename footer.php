@@ -1,0 +1,1 @@
+<div class="gradient-bg d-flex justify-center align-center mt-5" style="height:3rem; opacity:0.9;"><span class="text-white ">Copyright © 2020 - Inaklug Indonesia | Hak cipta dilindungi undang-undang</span></div>
